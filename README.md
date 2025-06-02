@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hey there! 👋 I'm Nimmo-san
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Developer+%7C+AI+Enthusiast;Data+%26+Software+Engineering;One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Developer+%7C+AI+Enthusiast;Data+%26+Software+Engineer;One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
 ## About Me
