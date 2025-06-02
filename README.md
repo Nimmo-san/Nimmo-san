@@ -46,6 +46,7 @@ JavaScript ████████████████░░  80%
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-623CE4?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 **Data & Analytics**
@@ -60,9 +61,21 @@ JavaScript ████████████████░░  80%
 
 ## What I'm Up To
 
-- 🔭 **Currently Working On**: Building websites for small businesses *(because every byte counts!)*
+## ⭐ Featured Projects
+
+### 🧘 Clarity (Flutter App)
+*Combating digital overwhelm, one clarity moment at a time*
+- **Purpose**: Anti-doomscrolling app featuring purposeful quotes and journaling
+- **Impact**: Helping users find clarity and fight anxiety in our always-connected world
+- **Tech**: Flutter <!-- [i can mention tools] -->
+
+### Serverless Guardian Data Streaming Freelance Project
+*Data streaming solution* - Details coming soon!
+
+## Also working on...
+
+- 🔭 **Side Projects**: Building websites for small businesses *(because every byte counts!)*
 - 🌱 **Learning**: Advanced AI/ML techniques and cloud architecture
-- 💡 **Recent Project**: **Serverless Guardian** - A data streaming solution *(details coming soon...)*
 - 🎪 **Fun Fact**: I believe in *agile collaboration* and *systems thinking* – basically, I play well with others and see the big picture!
 
 ---
