@@ -61,8 +61,6 @@ JavaScript ████████████████░░  80%
 
 ## What I'm Up To
 
-## ⭐ Featured Projects
-
 ### 🧘 Clarity (Flutter App)
 *Combating digital overwhelm, one clarity moment at a time*
 - **Purpose**: Anti-doomscrolling app featuring purposeful quotes and journaling
