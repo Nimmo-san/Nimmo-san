@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there! 👋 I'm Natu Okubet
+# Hey there!! 👋 I'm Natu
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Developer+%7C+AI+Enthusiast;Data+%26+Software+Engineer;One+Commit+at+a+Time" alt="Typing SVG" />
@@ -41,7 +41,7 @@ JavaScript ████████████████░░  80%
 **Tools & Platforms**
 <p align="center">
   <img src="https://img.shields.io/badge/Node.Js-900C3F?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
