@@ -41,8 +41,8 @@ JavaScript ████████████████░░  80%
 **Tools & Platforms**
 <p align="center">
   <img src="https://img.shields.io/badge/Node.Js-900C3F?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-c242f5?style=for-the-badge&logo=astro&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-fc9d03?style=for-the-badge&logo=typescriptlang&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
