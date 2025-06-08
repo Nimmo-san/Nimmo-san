@@ -42,6 +42,7 @@ JavaScript ████████████████░░  80%
 <p align="center">
   <img src="https://img.shields.io/badge/Node.Js-900C3F?style=for-the-badge&logo=node.js&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-a83232?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-c242f5?style=for-the-badge&logo=astro&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -64,7 +65,7 @@ JavaScript ████████████████░░  80%
 *Combating digital overwhelm, one clarity moment at a time*
 - **Purpose**: Anti-doomscrolling app featuring purposeful quotes and journaling
 - **Impact**: Helping users find clarity and fight anxiety in our always-connected world
-- **Tech**: Flutter <!-- [i can mention tools] -->
+- **Tech**: Flutter/Dart <!-- [i can mention tools] -->
 
 ### Serverless Guardian Data Streaming Freelance Project
 *Data streaming solution* - Details coming soon!
