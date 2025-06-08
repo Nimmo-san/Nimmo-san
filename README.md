@@ -84,10 +84,10 @@ JavaScript ████████████████░░  80%
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimmo-san&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimmo-san&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
+-->
 ---
 
 ## 🤝 Let's Connect!
