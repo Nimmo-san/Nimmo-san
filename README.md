@@ -66,6 +66,7 @@ JavaScript ████████████████░░  80%
 - **Purpose**: Anti-doomscrolling app featuring purposeful quotes and journaling
 - **Impact**: Helping users find clarity and fight anxiety in our always-connected world
 - **Tech**: Flutter/Dart <!-- [i can mention tools] -->
+## *COMING SOON*
 
 ### Serverless Guardian Data Streaming Freelance Project
 *Data streaming solution* - Details coming soon!
