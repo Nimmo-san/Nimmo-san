@@ -41,6 +41,7 @@ JavaScript ████████████████░░  80%
 
 **Tools & Platforms**
 <p align="center">
+  <img src="https://img.shields.io/badge/React-4BB6E4?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.Js-900C3F?style=for-the-badge&logo=node.js&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-a83232?style=for-the-badge&logo=dart&logoColor=white" />
