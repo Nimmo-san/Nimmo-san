@@ -26,7 +26,7 @@ I'm a **junior developer** on a mission to break into the tech industry! Current
 > *"I don't always test my code, but when I do, I do it in production."* Just kidding – I'm all about that CI/CD life! 😄
 
 ---
-
+<!--
 ## Tech Stack
 
 **Languages**
@@ -37,6 +37,7 @@ C       ███████████░░░░░░░░░  55%
 HTML/CSS ███████████████████░  95%
 JavaScript ████████████████░░  80%
 ```
+-->
 
 **Tools & Platforms**
 <p align="center">
@@ -67,8 +68,7 @@ JavaScript ████████████████░░  80%
 - **Impact**: Helping users find clarity and fight anxiety in our always-connected world
 - **Tech**: Flutter/Dart <!-- [i can mention tools] -->
 
-### Serverless Guardian Data Streaming Freelance Project
-*Data streaming solution* - Details coming soon!
+<!--
 
 ## Also working on...
 
@@ -77,14 +77,16 @@ JavaScript ████████████████░░  80%
 - 🎪 **Fun Fact**: I believe in *agile collaboration* and *systems thinking* – basically, I play well with others and see the big picture!
 
 ---
+-->
 
 ## GitHub Stats
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nimmo-san&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimmo-san&theme=radical&hide_border=true" />
 </div>
-
+-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimmo-san&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
@@ -102,7 +104,7 @@ JavaScript ████████████████░░  80%
   <!-- <a href="https://twitter.com/your-handle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> -->
-  <a href="https://nimmo-san.github.io/my-portfolio">
+  <a href="https://nimmo-san.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
