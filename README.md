@@ -44,6 +44,7 @@ JavaScript ████████████████░░  80%
   <img src="https://img.shields.io/badge/React-4BB6E4?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.Js-900C3F?style=for-the-badge&logo=node.js&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3E08F7?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-a83232?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-c242f5?style=for-the-badge&logo=astro&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
